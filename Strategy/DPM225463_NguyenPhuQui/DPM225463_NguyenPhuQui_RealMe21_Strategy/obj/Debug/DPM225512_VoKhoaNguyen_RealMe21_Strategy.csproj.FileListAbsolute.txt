@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\23 Bai Tap\Strategy\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe21_Strategy\bin\Debug\DPM225512_VoKhoaNguyen_RealMe21_Strategy.exe.config
+C:\Users\Admin\Desktop\23 Bai Tap\Strategy\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe21_Strategy\bin\Debug\DPM225512_VoKhoaNguyen_RealMe21_Strategy.exe
+C:\Users\Admin\Desktop\23 Bai Tap\Strategy\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe21_Strategy\bin\Debug\DPM225512_VoKhoaNguyen_RealMe21_Strategy.pdb
+C:\Users\Admin\Desktop\23 Bai Tap\Strategy\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe21_Strategy\obj\Debug\DPM225512_VoKhoaNguyen_RealMe21_Strategy.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\23 Bai Tap\Strategy\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe21_Strategy\obj\Debug\DPM225512_VoKhoaNguyen_RealMe21_Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\23 Bai Tap\Strategy\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe21_Strategy\obj\Debug\DPM225512_VoKhoaNguyen_RealMe21_Strategy.exe
+C:\Users\Admin\Desktop\23 Bai Tap\Strategy\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe21_Strategy\obj\Debug\DPM225512_VoKhoaNguyen_RealMe21_Strategy.pdb
